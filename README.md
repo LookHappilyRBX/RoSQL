@@ -1,5 +1,5 @@
 # RoSQL ![caption|width](https://raw.githubusercontent.com/LookHappilyRBX/RoSQL/Games/image/MdAbout/FullRoSQLLogoImage.png)
-**RoSQL is an SQL module based on Luau and Open source With MIT . GPL2 license**
+**RoSQL is an SQL module based on Luau and Open source With MIT . GPL3 license**
 Built in graphical management and a micro SQL language based on Luau implementation
 
 *By LookHapily @Lkkyuy Make*
